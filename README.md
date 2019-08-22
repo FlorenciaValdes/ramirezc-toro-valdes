@@ -23,9 +23,9 @@ Chriss Ramirez,
   Shuting Zhong.
 
 ### 4. Di' Oro:
-  Carla Castillo
-  Josefina Toro
-  Florencia Valdés
+  Carla Castillo, 
+  Josefina Toro, 
+  Florencia Valdés y 
   Shuting Zhong.
 
 ### 5. Tibio - Tibio:
