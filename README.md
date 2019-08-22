@@ -5,8 +5,8 @@ En este portafolio se exponen variados proyectos realizados por las tres integra
 
 Las autores de cada proyecto son:
 1. Enriquecimiento ambiental:
-  Francisca Pedreros
-  Chriss Ramirez
+Francisca Pedreros
+Chriss Ramirez
   Josefina Toro
   Florencia Valdés
 
