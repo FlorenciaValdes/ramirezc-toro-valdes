@@ -4,53 +4,53 @@
 En este portafolio se exponen variados proyectos realizados por las tres integrantes del equipo, en donde algunos hubo colaboración externa.
 
 Las autores de cada proyecto son:
-1. Enriquecimiento ambiental:
+### 1. Enriquecimiento ambiental:
 Francisca Pedreros
 Chriss Ramirez
   Josefina Toro
   Florencia Valdés
 
-2. Cling!:
+### 2. Cling!:
   Francisca Pedreros
   Chriss Ramirez
   Josefina Toro
   Florencia Valdés
 
-3. Nauca:
+### 3. Nauca:
   Carla Castillo
   Chriss Ramirez
   Florencia Valdés
   Shuting Zhong
 
-4. Di' Oro:
+### 4. Di' Oro:
   Carla Castillo
   Josefina Toro
   Florencia Valdés
   Shuting Zhong
 
-5. Tibio - Tibio:
+### 5. Tibio - Tibio:
   Francisca Pedreros
   Chriss Ramirez
   Josefina Toro
   Florencia Valdés
 
-6. Celer:
+### 6. Celer:
   Francisca Pedreros
   Josefina Toro
   Florencia Valdés
   Shuting Zhong
 
-7. Movo:
+### 7. Movo:
   Francisca Pedreros
   Josefina Toro
 
-8. Elise:
+### 8. Elise:
   Loreto Maturana
   Francisca Pedreros
   Chriss Ramirez
   María Jesús Viñales
 
-9. Campaña 50 años Tostador Ilko:
+### 9. Campaña 50 años Tostador Ilko:
   Antonia Adell
   Benjamin Banduc
   Antonia Figueroa
