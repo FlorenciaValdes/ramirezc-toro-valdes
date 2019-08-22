@@ -1,7 +1,6 @@
-@import url('https://fonts.googleapis.com/css?family=DM+Sans:400,700&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Space+Mono:700&display=swap');
-
-/* 
+@import url('https://fonts.googleapis.com/css?family=Barlow&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lexend+Deca&display=swap');
+/*
 
 Así se escriben los comentario en CSS.
 Siempre se abren con slash asterisco, y
@@ -15,28 +14,37 @@ se cierran con asterisco slash.
 }
 
 body{
-    font-family:'DM Sans', sans-serif;
+    font-family:'Barlow', sans-serif;
     font-weight:400;
     color:#373737;
     background-color:#FFFFFF; /*el primer par es R, segundo es G y tercero es B*/
+
 }
 
 h1, h2{
-    font-family:'Space Mono', monospace;
+    font-family:'Lexend Deca', sans-serif;
     color:#FFFFFF; /* lo básico, para evitar problemas */
-    color:rgba(255,255,255,0.8); /* si el navegador lo entiende, lo usa */
+    color:rgba(0,0,0,0.8); /* si el navegador lo entiende, lo usa */
     text-align:center;
     letter-spacing:0.1em;
     font-weight:700;
 }
 
 h1{
-    font-size:3rem;
+    font-size:4rem;
+    display: inline;
+    background-color: rgba(229,186,221,0.7);
+
 }
 
 h2{
+    padding-top: 1%;
+    align-self: center;
     font-size:2rem;
-    letter-spacing:0.1em;
+    font-weight: bold;
+    letter-spacing:0.2em;
+    display: inline-block;
+    background-color: rgba(229,186,221,0.7);
 }
 
 @media screen and (max-width: 768px){
@@ -49,12 +57,21 @@ h2{
     h2{ font-size:1rem; }
 }
 
+@media screen and (max-width: 320px){
+    h1{ font-size:0.75rem; }
+    h2{ font-size:0.1em; }
+}
+
+
 h3{
-    display:none;
+  font-size: 2rem;
+    font-family:'Lexend Deca', sans-serif;
+    /*display: none;*/
+    text-align:center;
 }
 
 h5, h6{
-    font-weight:700;     
+    font-weight:700;
 }
 
 a{
@@ -87,14 +104,36 @@ video{
 
 main{
     width:100%;
+
+}
+.somos h3{
+    font-family:'Lexend Deca', sans-serif;
+    color:#FFFFFF;
+    color:rgba(0,0,0,0.8);
+    text-align:center;
+    letter-spacing:0.1em;
+    font-weight:700;
+}
+.trabajos h3{
+    font-family:'Lexend Deca', sans-serif;
+    color:#FFFFFF;
+    color:rgba(0,0,0,0.8);
+    text-align:center;
+    letter-spacing:0.3em;
+    font-weight:700;
+    display: inherit;
+    background-color: #DCD3DA;
 }
 
-/* 
-Puedes revisar detalles sobre el siguiente uso de flex 
-en https://www.taniarascia.com/easiest-flex-grid-ever/ 
+
+/*
+Puedes revisar detalles sobre el siguiente uso de flex
+en https://www.taniarascia.com/easiest-flex-grid-ever/
 */
 
 #equipo {
+    padding-top: 1%;
+    padding-bottom: 1%;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -103,11 +142,11 @@ en https://www.taniarascia.com/easiest-flex-grid-ever/
 }
 
 #equipo a{
-    color:rgba(255,255,255,.7);
+    color:#A4A4A4;
 }
 
 #equipo a:hover{
-    color:rgba(255,255,255,.9);
+    color:#A4A4A4;
 }
 
 .integrante {
@@ -123,17 +162,21 @@ en https://www.taniarascia.com/easiest-flex-grid-ever/
 }
 
 .integrante h4{
+    font-size: 1.5rem;
     padding: 2rem 2rem 0.25rem 2rem;
+    color:#A4A4A4;
 }
 
 .integrante address{
     padding: 0.25rem 2rem;
-    font-size:0.9em;
+    font-size:1rem;
     font-style:normal;
+
 }
 
 .integrante blockquote{
     padding: 6rem 2rem 2rem 2rem;
+    color:#A4A4A4;
 }
 
 @media screen and (orientation: landscape){
@@ -147,10 +190,10 @@ en https://www.taniarascia.com/easiest-flex-grid-ever/
     display:block;
     font-style: normal;
     font-weight: 700;
-    font-size:.8rem;
+    font-size:.9rem;
     letter-spacing : 0.1rem;
     padding-top:0.25rem;
-    color:rgba(255,255,255,.75);
+    color:#A4A4A4;
 }
 
 .integrante blockquote cite:before {
@@ -158,7 +201,7 @@ en https://www.taniarascia.com/easiest-flex-grid-ever/
 }
 
 .integrante:nth-of-type(1){
-    background-color:#F83277;
+    background-color:#AAF0D8;
     background-image:url('media/integrante-1a.png');
     background-position: bottom right;
     background-size:auto 90%;
@@ -167,7 +210,7 @@ en https://www.taniarascia.com/easiest-flex-grid-ever/
 
 
 .integrante:nth-of-type(2){
-    background:#F93332;
+    background:#F4C7E7;
     background-image:url('media/integrante-2a.png');
     background-position: bottom right;
     background-size:auto 90%;
@@ -175,7 +218,7 @@ en https://www.taniarascia.com/easiest-flex-grid-ever/
 }
 
 .integrante:nth-of-type(3){
-    background:#FA7633;
+    background:#f9f4a0;
     background-image:url('media/integrante-3a.png');
     background-position: bottom right;
     background-size:auto 90%;
@@ -183,7 +226,7 @@ en https://www.taniarascia.com/easiest-flex-grid-ever/
 }
 
 .integrante:nth-of-type(1):hover{
-    background-color:#c2185b;
+    background-color:#95F0D1;
     background-image:url('media/integrante-1b.png');
     background-position: bottom right;
     background-size:auto 90%;
@@ -191,7 +234,7 @@ en https://www.taniarascia.com/easiest-flex-grid-ever/
 }
 
 .integrante:nth-of-type(2):hover{
-    background:#d32f2f;
+    background:#FDBBEA;
     background-image:url('media/integrante-2b.png');
     background-position: bottom right;
     background-size:auto 90%;
@@ -199,7 +242,7 @@ en https://www.taniarascia.com/easiest-flex-grid-ever/
 }
 
 .integrante:nth-of-type(3):hover{
-    background:#ef6c00;
+    background:#FAF48C;
     background-image:url('media/integrante-3b.png');
     background-position: bottom right;
     background-size:auto 90%;
@@ -215,7 +258,8 @@ AHORA VAMOS POR PORTAFOLIO
 #portafolio{
     width:100%;
     padding:.25% 0;
-    background:linear-gradient(to bottom, #EEEEEE, #AAAAAA);
+    background-image: url('fondo.png');
+    background:linear-gradient(to bottom, #DCD3DA, #DFC4D9);
 }
 
 .item {
@@ -242,6 +286,16 @@ AHORA VAMOS POR PORTAFOLIO
          color:#FFF;
     }
 }
+
+@media screen and (max-width: 320px){
+    .item{
+        width:98%;
+        margin:3%;
+        background:#000;
+        color:#FFF;
+   }
+}
+
  .item:hover{
      cursor:crosshair;
 }
@@ -252,7 +306,7 @@ AHORA VAMOS POR PORTAFOLIO
      width:100%;
      height:auto;
      margin-bottom:-4px;
-     filter: grayscale(1);
+     filter: grayscale(2);
 }
  .item:hover figure img{
      transform:scale(2);
@@ -263,6 +317,7 @@ AHORA VAMOS POR PORTAFOLIO
      font-size:1em;
      letter-spacing:0.025em;
      margin:5% 5% 3% 5%;
+
 }
  .item p{
      font-size:0.875em;
