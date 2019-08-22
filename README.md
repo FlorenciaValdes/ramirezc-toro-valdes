@@ -1,5 +1,5 @@
 # Portafolio
-##Chriss, Josefina y Florencia
+#Chriss, Josefina y Florencia
 
 En este portafolio se exponen variados proyectos realizados por las tres integrantes del equipo, en donde algunos hubo colaboración externa.
 
