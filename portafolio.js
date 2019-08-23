@@ -43,6 +43,16 @@ var trabajos = [{
   alt: "Descripción de la imagen",
   title: "Campaña 50 años Tostador Ilko",
   about: "Juego infantil de yoga para desarrollar la motricidad gruesa de les niñes. Contiene 1 set de cartas con distintas asanas de yoga simplificadas para que puedan realizarlas sin dificultad."
+}, {
+  figure: "media/trabajo-10-chiquefuerte.png",
+  alt: "Descripción de la imagen",
+  title: "Chi' Que Fuerte",
+  about: "Una nueva comida picantísima y sabrosa 'pal' bajón'"
+}, , {
+  figure: "media/trabajo-11-pep.png",
+  alt: "Descripción de la imagen",
+  title: "PEP",
+  about: "porcionadores lúdicos para la comida de los niños”, con el objetivo de enseñarle a los niños desde pequeños a ser conscientes de su alimentación aprendiendo el tamaño de sus porciones."
 }];
 // LUEGO CREAMOS PARTES DEL SITIO CON CADA DATO CONTENIDO EN LA VARIABLE
 $.each(trabajos, function(i, val) {
