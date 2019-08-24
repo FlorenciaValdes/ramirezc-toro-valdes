@@ -42,7 +42,7 @@ var trabajos = [{
   figure: "media/trabajo-09-50años.png",
   alt: "Descripción de la imagen",
   title: "Campaña 50 años Tostador Ilko",
-  about: "Juego infantil de yoga para desarrollar la motricidad gruesa de les niñes. Contiene 1 set de cartas con distintas asanas de yoga simplificadas para que puedan realizarlas sin dificultad."
+  about: "Propuesta de campaña publicitaria desarrollada para la empresa Ilko que celebra el aniversario número 50 de su tostador de pan. Incluye una colección limitada de tostadores de pan los cuales tienen una intervención serigráfica en el mango de estos, inspirada en ilustraciones chilenas; además se propone un cambio de packaging, creando una nueva identidad visual con los nuevos patrones de los tostadores limitados. A lo anterior se suma un comercial que apela principalmente a la tradición del tostador de pan en las casas chilenas. "
 }, {
   figure: "media/trabajo-10-chiquefuerte.png",
   alt: "Descripción de la imagen",
