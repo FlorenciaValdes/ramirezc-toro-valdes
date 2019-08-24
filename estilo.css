@@ -303,12 +303,14 @@ AHORA VAMOS POR PORTAFOLIO
 }
  .item figure{
      overflow:hidden;
+     border-radius: 20px;
 }
  .item figure img{
      width:100%;
      height:auto;
      margin-bottom:-4px;
      filter: grayscale(2);
+     border-radius: 20px;
 }
  .item:hover figure img{
      transform:scale(2);
