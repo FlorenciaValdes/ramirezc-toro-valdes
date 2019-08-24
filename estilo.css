@@ -268,6 +268,8 @@ AHORA VAMOS POR PORTAFOLIO
     color:#333;
     background:#eee;
     box-shadow:0 0 5px rgba(0,0,0,.5);
+    border-radius: 20px;
+
 }
 
 @media screen and (max-width: 768px){
