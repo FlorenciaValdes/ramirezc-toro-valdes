@@ -296,12 +296,12 @@ main{
      width:100%;
      height:auto;
      margin-bottom:-4px;
-     filter: opacity(0);
+     filter: opaciti(0%);
      border-radius: 20px;
 }
  .item:hover figure img{
      transform:scale(2);
-     filter: opacity(100%);
+     filter: opaciti(1);
      transition:all ease-out 1s;
 }
  .item h4{
