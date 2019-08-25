@@ -1,12 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Barlow&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Lexend+Deca&display=swap');
-/*
 
-Así se escriben los comentario en CSS.
-Siempre se abren con slash asterisco, y
-se cierran con asterisco slash.
-
-*/
 
 *{
     margin:0;
@@ -126,10 +120,7 @@ main{
 }
 
 
-/*
-Puedes revisar detalles sobre el siguiente uso de flex
-en https://www.taniarascia.com/easiest-flex-grid-ever/
-*/
+
 
 #equipo {
     padding-top: 1%;
@@ -249,16 +240,11 @@ en https://www.taniarascia.com/easiest-flex-grid-ever/
     background-repeat: no-repeat;
 }
 
-/*
 
-AHORA VAMOS POR PORTAFOLIO
-
-*/
 
 #portafolio{
     width:100%;
     padding:.25% 0;
-    background-image: url('fondo.png');
     background:linear-gradient(to bottom, #DCD3DA, #DFC4D9);
 }
 
