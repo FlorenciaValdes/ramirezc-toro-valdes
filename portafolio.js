@@ -47,12 +47,7 @@ var trabajos = [{
   figure: "media/trabajo-10-chiquefuerte.png",
   alt: "Descripción de la imagen",
   title: "Chi' Que Fuerte",
-  about: "Una nueva comida picantísima y sabrosa 'pal' bajón'"
-}, , {
-  figure: "media/trabajo-11-pep.png",
-  alt: "Descripción de la imagen",
-  title: "PEP",
-  about: "Porcionadores lúdicos para la comida de los niños”, con el objetivo de enseñarle a los niños desde pequeños a ser conscientes de su alimentación aprendiendo el tamaño de sus porciones."
+  about: "Chi' Que Fuerte es un snack de chorizo envuelto en nachos apanado, acompañado de una salsa de 'chilapebre', una nueva comida picantísima y sabrosa 'pal' bajón'"
 }];
 // LUEGO CREAMOS PARTES DEL SITIO CON CADA DATO CONTENIDO EN LA VARIABLE
 $.each(trabajos, function(i, val) {
