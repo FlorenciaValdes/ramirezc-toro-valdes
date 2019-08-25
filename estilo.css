@@ -309,7 +309,7 @@ AHORA VAMOS POR PORTAFOLIO
      width:100%;
      height:auto;
      margin-bottom:-4px;
-     filter: opaciti(0%);
+     filter: opacity(0%);
      border-radius: 20px;
 }
  .item:hover figure img{
