@@ -22,7 +22,7 @@ var trabajos = [{
     figure: "media/trabajo-05-tibiotibio.png",
     alt: "Descripción de la imagen",
     title: "Tibio-Tibio",
-    about: "Juego infantil de yoga para desarrollar la motricidad gruesa de les niñes."
+    about: "Juego infantil de yoga para desarrollar la motricidad gruesa de l@s niñ@s."
 }, {
     figure: "media/trabajo-06-celer.png",
     alt: "Descripción de la imagen",
@@ -52,7 +52,7 @@ var trabajos = [{
   figure: "media/trabajo-11-pep.png",
   alt: "Descripción de la imagen",
   title: "PEP",
-  about: "porcionadores lúdicos para la comida de los niños”, con el objetivo de enseñarle a los niños desde pequeños a ser conscientes de su alimentación aprendiendo el tamaño de sus porciones."
+  about: "Porcionadores lúdicos para la comida de los niños”, con el objetivo de enseñarle a los niños desde pequeños a ser conscientes de su alimentación aprendiendo el tamaño de sus porciones."
 }];
 // LUEGO CREAMOS PARTES DEL SITIO CON CADA DATO CONTENIDO EN LA VARIABLE
 $.each(trabajos, function(i, val) {
