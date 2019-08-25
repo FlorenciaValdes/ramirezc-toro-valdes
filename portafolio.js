@@ -47,7 +47,7 @@ var trabajos = [{
   figure: "media/trabajo-10-chiquefuerte.png",
   alt: "Descripción de la imagen",
   title: "Chi' Que Fuerte",
-  about: "Chi' Que Fuerte es un snack de chorizo envuelto en nachos apanado, acompañado de una salsa de 'chilapebre', una nueva comida picantísima y sabrosa 'pal' bajón'"
+  about: "Chi' Que Fuerte es un snack de chorizo apanado envuelto en nachos, acompañado de una salsa de 'chilapebre', una nueva comida picantísima y sabrosa 'pal' bajón'"
 }];
 // LUEGO CREAMOS PARTES DEL SITIO CON CADA DATO CONTENIDO EN LA VARIABLE
 $.each(trabajos, function(i, val) {
