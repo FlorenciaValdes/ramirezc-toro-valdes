@@ -177,7 +177,7 @@ main{
     }
 }
 
-.integrante blockquote cite {
+/*.integrante blockquote cite {
     display:block;
     font-style: normal;
     font-weight: 700;
@@ -185,11 +185,9 @@ main{
     letter-spacing : 0.1rem;
     padding-top:0.25rem;
     color:#A4A4A4;
-}
+}*/
 
-.integrante blockquote cite:before {
-    content:"— ";
-}
+
 
 .integrante:nth-of-type(1){
     background-color:#AAF0D8;
