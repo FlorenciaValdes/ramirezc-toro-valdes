@@ -173,19 +173,9 @@ main{
 @media screen and (orientation: landscape){
     .integrante blockquote{
         padding: 6rem 2rem 2rem 2rem;
-        max-width:35%;
+        max-width:40%;
     }
 }
-
-/*.integrante blockquote cite {
-    display:block;
-    font-style: normal;
-    font-weight: 700;
-    font-size:.9rem;
-    letter-spacing : 0.1rem;
-    padding-top:0.25rem;
-    color:#A4A4A4;
-}*/
 
 
 
