@@ -55,6 +55,12 @@ Chriss Ramirez,
   Benjamin Banduc, 
   Antonia Figueroa y 
   Florencia Valdés.
+  
+### 10. Chi' Que Fuerte:
+  Loreto Maturana,
+  Francisca Pedreros,
+  Chriss Ramírez y
+  María Jesús Viñales.
 
 Nuestra formación se ve reflejada en estos proyectos, los cuales nos han permitido incorporar diferentes conocimientos.
 
