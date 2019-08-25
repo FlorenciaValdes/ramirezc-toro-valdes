@@ -11,14 +11,14 @@ body{
     font-family:'Barlow', sans-serif;
     font-weight:400;
     color:#373737;
-    background-color:#FFFFFF; /*el primer par es R, segundo es G y tercero es B*/
+    background-color:#FFFFFF; 
 
 }
 
 h1, h2{
     font-family:'Lexend Deca', sans-serif;
-    color:#FFFFFF; /* lo básico, para evitar problemas */
-    color:rgba(0,0,0,0.8); /* si el navegador lo entiende, lo usa */
+    color:#FFFFFF; 
+    color:rgba(0,0,0,0.8); /
     text-align:center;
     letter-spacing:0.1em;
     font-weight:700;
@@ -173,7 +173,7 @@ main{
 @media screen and (orientation: landscape){
     .integrante blockquote{
         padding: 6rem 2rem 2rem 2rem;
-        max-width:50%;
+        max-width:35%;
     }
 }
 
