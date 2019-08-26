@@ -127,7 +127,7 @@ main{
 
 #equipo {
     padding-top: 1%;
-    padding-bottom: -10%;
+    padding-bottom: 0.2%;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -236,7 +236,7 @@ main{
 #portafolio{
     width:100%;
     margin-top: 2%;
-    padding:50% 0;
+    padding:0.2% 0;
     background:linear-gradient(to bottom, #DCD3DA, #DFC4D9);
 }
 
