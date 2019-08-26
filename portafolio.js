@@ -12,7 +12,7 @@ var trabajos = [{
     figure: "media/trabajo-03-nauca.png",
     alt: "Descripción de la imagen",
     title: "Nauca",
-    about: "Nauca es un urinario femenino hecho de tela pvc, entregado por municipalidades de comunas afectadas por un terremoto, éstos vienen plegados, rodeados del packaging que incluye instrucciones de armado y uso."
+    about: "Nauca es un urinario femenino de emergencia, hecho de tela pvc. La idea es que sea entregado por las municipalidades de comunas afectadas por un terremoto u otra catástrofe, para crear una zona de baños, donde las mujeres se sientan seguras. Nauca viene plegado, rodeado por un packaging que incluye instrucciones de armado y uso."
 }, {
     figure: "media/trabajo-04-dioro.png",
     alt: "Descripción de la imagen",
