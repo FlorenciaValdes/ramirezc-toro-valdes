@@ -285,7 +285,7 @@ main{
      width:100%;
      height:auto;
      margin-bottom:-4px;
-     filter: blur(1.5rem);
+     filter: blur(1rem);
      border-radius: 20px;
 }
  .item:hover figure img{
