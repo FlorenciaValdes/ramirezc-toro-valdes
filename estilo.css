@@ -110,6 +110,7 @@ main{
 }
 .trabajos h3{
     font-family:'Lexend Deca', sans-serif;
+    margin-top: 1%;
     margin-bottom:3%;
     color:#FFFFFF;
     color:rgba(0,0,0,0.8);
@@ -126,7 +127,7 @@ main{
 
 #equipo {
     padding-top: 1%;
-    padding-bottom: 0%;
+    padding-bottom: -1%;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
