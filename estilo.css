@@ -232,6 +232,7 @@ main{
 
 #portafolio{
     width:100%;
+    margin-top: 0;
     padding:.25% 0;
     background:linear-gradient(to bottom, #DCD3DA, #DFC4D9);
 }
